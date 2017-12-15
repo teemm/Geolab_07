@@ -1,0 +1,27 @@
+.header{
+	padding-top: 30px;
+	padding-left: 30px;
+}
+.logo{
+	width: 100px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 50px;
+}
+
+.navigation ul li{
+	display: inline-block;
+}
+.navigation ul li a{
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	color: #3D58A6;
+	/*margin*/
+	padding: 0 12.5px 0 12.5px;
+}
+.navigation ul li a:hover{
+	color: red;
+}
