@@ -3,13 +3,15 @@
 	display: inline-block;
 	vertical-align: middle;
 }
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
 /* base calses */
 
 /* header */
 .header{
 	padding: 20px 0;
-	width: 1170px;
-	margin: 0 auto;
 }
 .logo{
 	width: 100px;
@@ -43,4 +45,15 @@
 	height: 30px;
 }
 /* header */
+
+
+/* banner container */
+.banner-wrapper{
+	background-color: #E6E6E6;
+	padding: 30px 0;
+}
+.banner-wrapper img{
+	width: 100%;
+}
+/* banner container */
 
